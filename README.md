@@ -1,4 +1,5 @@
-# CC421-IA-PC1-Grupo8
+# RDF 
+## CC421-IA-PC1-Grupo8
 Primera práctica calificada del curso de Inteligencia Artificial.
 
 ## Integrantes
